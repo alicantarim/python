@@ -1,0 +1,3 @@
+Alican Tarım:100,60,70
+Kübra Tarım:100,85,90
+Lavinya Tarım:100,100,95
