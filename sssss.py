@@ -98,4 +98,4 @@ while (i < kisiSayisi):
 
 print(ogrenciler)
 
-#sssssss
+#ssssssssss
