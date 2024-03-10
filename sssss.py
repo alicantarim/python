@@ -96,5 +96,4 @@ while (i < kisiSayisi):
         }
     })
 
-
 print(ogrenciler)
