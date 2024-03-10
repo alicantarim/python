@@ -22,6 +22,7 @@ def sqrt(x):
     print('x :'+ str(x))
 
 
+
 from math import factorial,sqrt,ceil
 # Sadece factorial, sqrt ve ceil kullanabiliriz.
 
